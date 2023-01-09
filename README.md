@@ -13,6 +13,6 @@ The code is written on Google Colab, and the parameter ‘renderer’ is set to 
 
 ## Data Source
 The data source is 'Smart Cities indexes 2022' on Kaggle.
-link: https://www.kaggle.com/datasets/nicolasmiguezgarcia/smart-cities-kpis-indexes
+Link: https://www.kaggle.com/datasets/nicolasmiguezgarcia/smart-cities-kpis-indexes
 
-In this project the data is stored in MySQL database, please use the create_tables.sql file to create the corresponding tables before running the ipynb file.
+In this project, the original data is stored in MySQL database, please use the *create_tables.sql* file to create the corresponding tables before running the notebook.
