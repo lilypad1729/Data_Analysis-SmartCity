@@ -15,4 +15,4 @@ The code is written on Google Colab, and the parameter ‘renderer’ is set to 
 The data source is 'Smart Cities indexes 2022' on Kaggle.
 Link: https://www.kaggle.com/datasets/nicolasmiguezgarcia/smart-cities-kpis-indexes
 
-In this project, the original data is stored in MySQL database, please use the *create_tables.sql* file to create the corresponding tables before running the notebook.
+In this project, the original data is stored in MySQL database, please use the *create_tables.sql* file to create the corresponding tables in database before running the notebook.
